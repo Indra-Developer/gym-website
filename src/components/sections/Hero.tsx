@@ -99,7 +99,7 @@ export default function Hero() {
       <div className="flex flex-col w-full md:hidden bg-white">
         
         {/* Top Block: Just the Image (Takes exactly 55% of screen height) */}
-        <div className="relative w-full h-[42vh] min-h-[415px]">
+        <div className="relative w-full h-[42vh] min-h-[400px]">
           <img 
             src="/assets/hero-mobile.png" 
             alt="MR GYM Mobile Background" 
